@@ -1,0 +1,3 @@
+#!/bin/bash
+export POWER=2000
+export DIVID=5
